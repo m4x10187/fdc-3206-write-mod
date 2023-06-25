@@ -7,6 +7,7 @@ Do this modification at your own risk, I will not be held responsible if you scr
 
 ### BOM
 U1 - 74LS76 (DIP-16)
+
 U2 - 74LS45 (DIP-16)
 
 ### PCB Design
